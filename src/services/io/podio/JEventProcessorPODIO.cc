@@ -84,6 +84,12 @@ JEventProcessorPODIO::JEventProcessorPODIO() {
             "TOFBarrelRecHit",
             "TOFEndcapRecHits",
 
+            // DRICH
+            "DRICHAerogelTracks",
+            "DRICHGasTracks",
+            "DRICHRawHits",
+            "DRICHIrtCherenkovParticleID",
+
             // MPGD
             "MPGDBarrelRecHits",
             "MPGDDIRCRecHits",
